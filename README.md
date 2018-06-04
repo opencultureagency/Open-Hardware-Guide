@@ -1,4 +1,4 @@
-# Open-Hardware-Guide
+# Open Hardware Guide
 
 Following up on the 2016 “Let’s Go jHUB” programme, the OPEN HARDWARE GUIDE or #OHG is an outcome of the Open Tech and Repair Skills workshop led by Timm Wille and hosted by the Hive Colab innovation hub in Kampala.
 
