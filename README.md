@@ -18,17 +18,17 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 # **Color scheme + Hex Color Codes:**
 
-###  (main) 
-*connotation: 
-
-* ![#F0EEE5](color-codes/F0EEE5.png) Background: 
-* ![#DFAF5F](color-codes/DFAF5F.png) Background: #DFAF5F 
-* ![#EADEC5](color-codes/EADEC5.png) Background: #EADEC5
-
-###  (main): 
+###  front page: 
 *connotation:
 
 * ![#7B8C37](color-codes/7B8C37.png) Legend: #7B8C37 
+
+###  back page
+
+* ![#F0EEE5](color-codes/F38BAF.png) Top left square (pink): #F38BAF 
+* ![#DFAF5F](color-codes/7CCFDD.png) Top Right Corner (Turqouise): #7CCFDD
+* ![#EADEC5](color-codes/519DD0.png) Bottom left square (blue): #519DD0 
+* ![#EADEC5](color-codes/B5D44D.png) Bottom Right square (green) : #B5D44D
 
 ### (graphics)
 
