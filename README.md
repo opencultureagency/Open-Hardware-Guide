@@ -25,10 +25,10 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 ###  back page
 
-* ![#F0EEE5](color-codes/F38BAF.png=50x50) Top left square (pink): #F38BAF 
-* ![#DFAF5F](color-codes/7CCFDD.png=50x50) Top Right Corner (Turqouise): #7CCFDD
-* ![#EADEC5](color-codes/519DD0.png=50x50) Bottom left square (blue): #519DD0 
-* ![#EADEC5](color-codes/B5D44D.png=50x50) Bottom Right square (green) : #B5D44D
+* ![#F0EEE5](color-codes/F38BAF.png) Top left square (pink): #F38BAF 
+* ![#DFAF5F](color-codes/7CCFDD.png) Top Right Corner (Turqouise): #7CCFDD
+* ![#EADEC5](color-codes/519DD0.png) Bottom left square (blue): #519DD0 
+* ![#EADEC5](color-codes/B5D44D.png) Bottom Right square (green) : #B5D44D
 
 ### (graphics)
 
