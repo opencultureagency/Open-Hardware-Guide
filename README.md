@@ -19,20 +19,27 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 # **Color scheme + Hex Color Codes:**
 
 ###  front page: 
-*connotation:
 
+
+* ![#F0EEE5](color-codes/F38BAF.png) Top left corner (pink): #F38BAF 
+* ![#DFAF5F](color-codes/7CCFDD.png) Top Right Corner (Turqouise): #7CCFDD
+* ![#EADEC5](color-codes/519DD0.png) Bottom left corner (blue): #519DD0 
+* ![#EADEC5](color-codes/B5D44D.png) Bottom Right corner (green) : #B5D44D
 * ![#7B8C37](color-codes/7B8C37.png) Legend: #7B8C37 
 
 ###  back page
+    Same as back with addition of a yellow square:
+    
+* ![#F0EEE5](color-codes/519DD0.png) Top left corner example #1 phone stand (blue): #519DD0 
+* ![#DFAF5F](color-codes/F38BAF.png) Top Right Corner example #2 LED light (pink): #F38BAF 
+* ![#EADEC5](color-codes/7CCFDD.png) Bottom right corner, example #3 Solar Charger (Turqouise): #7CCFDD
+* ![#EADEC5](color-codes/B5D44D.png) Bottom left corner with Jhub logo, title page (green): #B5D44D
+* ![#EADEC5](color-codes/F0C539.png) Bottom left corner with partner info/credits, back page (yellow): #F0C539
 
-* ![#F0EEE5](color-codes/F38BAF.png) Top left square (pink): #F38BAF 
-* ![#DFAF5F](color-codes/7CCFDD.png) Top Right Corner (Turqouise): #7CCFDD
-* ![#EADEC5](color-codes/519DD0.png) Bottom left square (blue): #519DD0 
-* ![#EADEC5](color-codes/B5D44D.png) Bottom Right square (green) : #B5D44D
+### graphics + font colors (black and white)
 
-### (graphics)
-
-* ![#231F20](color-codes/231F20.png) Font and graphics: 
+* ![#231F20](color-codes/231F20.png) Fonts:  
+* ![#231F20](color-codes/231F20.png) graphics: outline sketches are white and the steps in each corner.
 
 # **Fonts used:**
 
