@@ -2,6 +2,8 @@
 
 This repository includes the material (texts / graphics / Source file / pdf) of the #ASKnet __Open Hardware Guide__ poster .
 
+Open Hardware (OH) or “Open Source Hardware (OSHW) is a term for tangible artifacts — machines, devices, or other physical things — whose design has been released to the public in such a way that anyone can make, modify, distribute, and use those things.”
+
 Following up on the 2016 “Let’s Go jHUB” programme, the OPEN HARDWARE GUIDE or #OHG is an outcome of the Open Tech and Repair Skills workshop led by Timm Wille and hosted by the Hive Colab innovation hub in Kampala.
 
 As a follow-up to the first Open Learning Guide (#OLG) the Open Hardware Guide gives examples of hands-on skills possibilities and projects applying open hardware methodologies. Acting as an introduction to resources and as a tangible tool in the form of a rugged A1 poster for trainers, tinkerers and facilitators, the #OHG is ready for distribution to anyone interested in exploring open technologies in a very practical way.
@@ -18,27 +20,27 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 # **Color scheme + Hex Color Codes:**
 
-###  front page: 
+###  front page:
 
 
-* ![#F0EEE5](color-codes/F38BAF.png) Top left corner (pink): #F38BAF 
+* ![#F0EEE5](color-codes/F38BAF.png) Top left corner (pink): #F38BAF
 * ![#DFAF5F](color-codes/7CCFDD.png) Top Right Corner (Turqouise): #7CCFDD
-* ![#EADEC5](color-codes/519DD0.png) Bottom left corner (blue): #519DD0 
+* ![#EADEC5](color-codes/519DD0.png) Bottom left corner (blue): #519DD0
 * ![#EADEC5](color-codes/B5D44D.png) Bottom Right corner (green) : #B5D44D
-* ![#7B8C37](color-codes/7B8C37.png) Legend: #7B8C37 
+* ![#7B8C37](color-codes/7B8C37.png) Legend: #7B8C37
 
 ###  back page
     Same as back with addition of a yellow square:
-    
-* ![#F0EEE5](color-codes/519DD0.png) Top left corner example #1 phone stand (blue): #519DD0 
-* ![#DFAF5F](color-codes/F38BAF.png) Top Right Corner example #2 LED light (pink): #F38BAF 
+
+* ![#F0EEE5](color-codes/519DD0.png) Top left corner example #1 phone stand (blue): #519DD0
+* ![#DFAF5F](color-codes/F38BAF.png) Top Right Corner example #2 LED light (pink): #F38BAF
 * ![#EADEC5](color-codes/7CCFDD.png) Bottom right corner, example #3 Solar Charger (Turqouise): #7CCFDD
 * ![#EADEC5](color-codes/B5D44D.png) Bottom left corner with Jhub logo, title page (green): #B5D44D
 * ![#EADEC5](color-codes/F0C539.png) Bottom left corner with partner info/credits, back page (yellow): #F0C539
 
 ### graphics + font colors (black and white)
 
-* ![#231F20](color-codes/231F20.png) Fonts:  
+* ![#231F20](color-codes/231F20.png) Fonts:
 * ![#231F20](color-codes/231F20.png) graphics: outline sketches are white and the steps in each corner.
 
 # **Fonts used:**
@@ -75,8 +77,8 @@ PDF Print-Ready file:
 # **Editorial Team:**
 **Content Creator & Editor**
 
-Jodi
-
+Design: Adam Ferns
+Assembled & Edited by Jodi Rose
 Timm Wille [Github](https://github.com/timmwille/)
 
 ## Partners and Founders
