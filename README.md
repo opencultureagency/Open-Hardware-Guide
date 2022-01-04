@@ -44,10 +44,10 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 # **Fonts used:**
 
-* Title:  Knockout HTF51 Middleweight   [Download Font](https://copyfonts.com/fonts/knockout-htf51-middleweight.html)
-* Body Text:  Knockout HTF31-JuniorMiddlewt   [Download Font](https://copyfonts.com/download/knockout-htf31-juniormiddlewt.html)
-* words in white back page (in pink top left corner and the word example, the numbers, and Steps, the text in the templates):  Chalkduster [Download Font](https://www.ffonts.net/Chalkduster.font)
-* Other (unsure where): Myriad Pro Regular
+* **Title:**  Knockout HTF51 Middleweight   [Download Font](https://copyfonts.com/fonts/knockout-htf51-middleweight.html)
+* **Body Text:**  Knockout HTF31-JuniorMiddlewt   [Download Font](https://copyfonts.com/download/knockout-htf31-juniormiddlewt.html)
+* **words in white back page (in pink top left corner and the word example, the numbers, and Steps, the text in the templates):**  Chalkduster [Download Font](https://www.ffonts.net/Chalkduster.font)
+* **Other (unsure where):** Myriad Pro Regular
   [Download Font](https://fontsgeek.com/fonts/Myriad-Pro-Regular)
 
 # **Text:**
@@ -77,8 +77,8 @@ PDF Print-Ready file:
 # **Editorial Team:**
 **Content Creator & Editor**
 
-Design: Adam Ferns
-Assembled & Edited by Jodi Rose
+Design: Adam Ferns  
+Assembled & Edited by: Jodi Rose  
 Timm Wille [Github](https://github.com/timmwille/)
 
 ## Partners and Founders
