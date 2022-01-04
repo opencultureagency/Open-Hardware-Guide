@@ -24,10 +24,9 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 
 * ![#F0EEE5](color-codes/F38BAF.png) Top left corner (pink): #F38BAF
-* ![#DFAF5F](color-codes/7CCFDD.png) Top Right Corner (Turqouise): #7CCFDD
+* ![#DFAF5F](color-codes/7CCFDD.png) Top right Corner (turqouise): #7CCFDD
 * ![#EADEC5](color-codes/519DD0.png) Bottom left corner (blue): #519DD0
-* ![#EADEC5](color-codes/B5D44D.png) Bottom Right corner (green) : #B5D44D
-* ![#7B8C37](color-codes/7B8C37.png) Legend: #7B8C37
+* ![#EADEC5](color-codes/B5D44D.png) Bottom right corner (green) : #B5D44D
 
 ###  back page
     Same as back with addition of a yellow square:
@@ -45,10 +44,11 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 # **Fonts used:**
 
-* Title:       [Download Font](https://www.dfonts.org/fonts/bearbone-sans/)
-* Body Text:     [Download Font](https://fonts.google.com/specimen/Source+Sans+Pro/)
-* Subtitles:   [Download Font](https://ifonts.xyz/travel-font.html)
-* Other:   [Download Font](https://allbestfonts.com/drusticdialy/)
+* Title:  Knockout HTF51 Middleweight   [Download Font](https://copyfonts.com/fonts/knockout-htf51-middleweight.html)
+* Body Text:  Knockout HTF31-JuniorMiddlewt   [Download Font](https://copyfonts.com/download/knockout-htf31-juniormiddlewt.html)
+* words in white back page (in pink top left corner and the word example, the numbers, and Steps, the text in the templates):  Chalkduster [Download Font](https://www.ffonts.net/Chalkduster.font)
+* Other (unsure where): Myriad Pro Regular
+  [Download Font](https://fontsgeek.com/fonts/Myriad-Pro-Regular)
 
 # **Text:**
 
