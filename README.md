@@ -35,7 +35,7 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 * ![#DFAF5F](color-codes/F38BAF.png) Top Right Corner example #2 LED light (pink): #F38BAF
 * ![#EADEC5](color-codes/7CCFDD.png) Bottom right corner, example #3 Solar Charger (Turqouise): #7CCFDD
 * ![#EADEC5](color-codes/B5D44D.png) Bottom left corner with Jhub logo, title page (green): #B5D44D
-* ![#EADEC5](color-codes/F0C539.png) Bottom left corner with partner info/credits, back page (yellow): #F0C539
+* ![#EADEC5](color-codes/F0C539.png) Bottom left corner with partner info/credits (yellow): #F0C539
 
 ### graphics + font colors (black and white)
 
@@ -54,8 +54,8 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 You can acess the raw text files from the text folder [here](#)
 
-* [Front Text](text/text-OHG-front.txt)
-* [Back Text](text/text-OHG-back.txt)
+* [Front Text](text/OHG-front-FINAL-TEXT.odt)
+* [Back Text](text/OHG-back-FINAL-TEXT.odt)
 
 
 # **Images:**
