@@ -39,8 +39,8 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 ### graphics + font colors (black and white)
 
-* ![#231F20](color-codes/231F20.png) Fonts:
-* ![#231F20](color-codes/231F20.png) graphics: outline sketches are white and the steps in each corner.
+* text: titles in White, body in black
+* graphics: outline sketches are white and the steps in each corner.
 
 # **Fonts used:**
 
@@ -52,19 +52,19 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 # **Text:**
 
-You can acess the raw text files from the text folder [here](#)
+You can acess the raw text files from the text folder:
 
-* [Front Text](text/OHG-front-FINAL-TEXT.odt)
-* [Back Text](text/OHG-back-FINAL-TEXT.odt)
+* [Front Text](text/OHG-front-FINAL-TEXT.md)
+* [Back Text](text/OHG-back-FINAL-TEXT.md)
 
 
 # **Images:**
 
 You can acess the raw images files graphics, icons, and logos from the images folder [here](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/images)
 
-* [Front images](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/images/front)
-* [Back images](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/images/back)
-* [Logos](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/images/logos)
+* [Front images](https://github.com/opencultureagency/Open-Hardware-Guide/tree/master/images/front)
+* [Back images](https://github.com/opencultureagency/Open-Hardware-Guide/tree/master/images/back)
+* [Logos](https://github.com/opencultureagency/Open-Hardware-Guide/tree/master/images/logos)
 
 # **Source File:**
 
