@@ -10,7 +10,7 @@ As a follow-up to the first Open Learning Guide (#OLG) the Open Hardware Guide g
 
 The #OHG content was developed by the workshop participants based on their designs and documented steps in test workshops held with students at the Panyadoli Self-Help Secondary School in Bweyale, Uganda. Alongside the #OHG, the participants helped develop and test #ASKotek, the ‘Access to Skills and Knowledge – open tech emergency kit‘ a field-trainers resource tool-kit for repairing, building and learning about practical electronics including small scale solar power.
 
-More about [#ASKnet](https://www.weareasknet.org/) here.
+More about [#ASKnet](https://asknet.community/) here.
 
 ## Design Description
 
@@ -77,8 +77,8 @@ PDF Print-Ready file:
 # **Editorial Team:**
 **Content Creator & Editor**
 
-Design: Adam Ferns  
-Assembled & Edited by: Jodi Rose  
+Design: Adam Ferns
+Assembled & Edited by: Jodi Rose
 Timm Wille [Github](https://github.com/timmwille/)
 
 ## Partners and Founders
